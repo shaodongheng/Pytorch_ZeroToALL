@@ -63,34 +63,7 @@ pytorch主要运行深度学习模型，往往需要GPU的支持来提高运行�
 
 ### 2.2.2 张量（Tensor）
 
-Tensor是pytorch中最基本的操作对象。
-
-1. tensor的不同数据类型：
-
-| 数据类型           | 数据类型   |
-| ------------------ | ---------- |
-| torch.FloatTensor  | 32位浮点型 |
-| torch.DoubleTensor | 64位浮点型 |
-| torch.ShortTensor  | 16位整型   |
-| torch.IntTensor    | 32位整型   |
-| torch.LongTensor   | 64位整型   |
-
-2. tensor的定义
-
-   ```python
-   a = torch.Tensor([[2,3],[4,8],[7,9]]) 
-   print(a,a.size())
-   ```
-
-   输出：
-
-   ![image-20200417140804459](https://raw.githubusercontent.com/shaodongheng/cloudimage/master/img/image-20200417140804459.png)
-
-   
-
-   
-
-   
+### 2.2.3 变量（Variable）
 
 
 
