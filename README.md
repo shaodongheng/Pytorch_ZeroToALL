@@ -64,7 +64,7 @@ Tensor是pytorch中最基本的操作对象。
 
    输出：
 
-   ![image-20200417140136283](https://raw.githubusercontent.com/shaodongheng/RepositoryName/cloudimage/img/image-20200417140136283.png)
+   ![image-20200417140804459](https://raw.githubusercontent.com/shaodongheng/cloudimage/master/img/image-20200417140804459.png)
 
    
 
