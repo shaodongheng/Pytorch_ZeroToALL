@@ -59,7 +59,7 @@ pytorch主要运行深度学习模型，往往需要GPU的支持来提高运行�
 # 2. 入门
 
 ## 2.1 基础知识
-[基础知识](#./content/2.1 基础知识.md)
+[基础知识](https://github.com/shaodongheng/Pytorch_ZeroToALL/blob/master/content/2.1%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 ### 2.2.2 张量（Tensor）
 
 
