@@ -28,7 +28,7 @@ Pytorch 学习笔记，入门，基础，算法模型，论文代码，深度学
   * [2.2 多层全连接神经网络](#22----------)
 - [参考资料](#----)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 # 1. 安装与配置
